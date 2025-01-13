@@ -9,7 +9,7 @@ Explore the app and unleash your inner drummer by playing virtual drums directly
 
 ## 🌐 Live Demo  
 
-Check out the live deployment here: [JS Drum Website](https://rinkitokun.github.io/JS-Drum/)  
+Check out the live deployment here: [JS Drum Website](https://rinkitokun.github.io/JS-Playable-Drum/)  
 
 ---
 
